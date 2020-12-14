@@ -37,3 +37,12 @@ Given the root to a binary tree, implement serialize(root), which serializes the
 and deserialize(s), which deserializes the string back into the tree.
 <br>
 <a href ="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day5.py">Solution</a>
+
+#### Day 6 :<br>
+<b><i>This problem was asked by Stripe.</b></i><br>
+Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array.
+The array can contain duplicates and negative numbers as well.
+For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
+You can modify the input array in-place.
+<br>
+<a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day6.java">Solution</a>
