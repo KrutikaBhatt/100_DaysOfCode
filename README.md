@@ -46,3 +46,8 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 You can modify the input array in-place.
 <br>
 <a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day6.java">Solution</a>
+
+#### Day 7:<br>
+Given a string with repeated characters, rearrange the string so that no two adjacent characters are the same.
+If this is not possible, return None.For example, given "aaabbc", you could return "ababac". Given "aaab", return None.
+<a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day7.java">Solution</a>
