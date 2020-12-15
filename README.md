@@ -45,8 +45,7 @@ The array can contain duplicates and negative numbers as well.
 For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
 You can modify the input array in-place.
 <br>
-<a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day6.java">Solution</a>
-
+<a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day6.java">Solution</a><br>
 #### Day 7:<br>
 Given a string with repeated characters, rearrange the string so that no two adjacent characters are the same.
 If this is not possible, return None.For example, given "aaabbc", you could return "ababac". Given "aaab", return None.
