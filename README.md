@@ -50,3 +50,13 @@ You can modify the input array in-place.
 Given a string with repeated characters, rearrange the string so that no two adjacent characters are the same.
 If this is not possible, return None.For example, given "aaabbc", you could return "ababac". Given "aaab", return None.
 <a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day7.java">Solution</a>
+#### Day 8:<br>
+<b><i>This problem was asked by Google.</b></i><br>
+An XOR linked list is a more memory efficient doubly linked list. 
+Instead of each node holding next and prev fields, it holds a field named both, which is an XOR of the next node and the previous node. 
+Implement an XOR linked list; it has an add(element) which adds the element to the end, and a get(index) which returns the node at index.<br>
+If using a language that has no pointers (such as Python), you can assume you have access to get_pointer and dereference_pointer functions that converts between nodes and memory addresses.<br>
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Do read the glimpse file which explains certain important concepts related to it`
+<br>
+Solution :<br><a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day8/Day8_Python.py"> In Python</a> and <a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day8/Day8.cpp"> In C++</a>
+ 
