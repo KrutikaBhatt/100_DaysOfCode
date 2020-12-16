@@ -59,4 +59,12 @@ If using a language that has no pointers (such as Python), you can assume you ha
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Do read the glimpse file which explains certain important concepts related to it`
 <br>
 Solution :<br><a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day8/Day8_Python.py"> In Python</a> and <a href="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day8/Day8.cpp"> In C++</a>
+
+#### Day 9 :<br>
+<b><i>This problem was asked by Facebook.</b></i>
  
+Suppose you are given two lists of n points, one list p1, p2, ...,
+pn on the line y = 0 and the other list q1, q2, ..., qn on the line y = 1.
+Imagine a set of n line segments connecting each point pi to qi.
+Write an algorithm to determine how many pairs of the line segments intersect.
+<br><a href ="https : https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day9/Day9.java">Solution</a>
