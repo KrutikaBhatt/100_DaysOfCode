@@ -68,3 +68,10 @@ pn on the line y = 0 and the other list q1, q2, ..., qn on the line y = 1.
 Imagine a set of n line segments connecting each point pi to qi.
 Write an algorithm to determine how many pairs of the line segments intersect.
 <br><a href ="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day9/Day9.java">Solution</a>
+#### Day 10 :<br>
+<b><i>This problem was asked by Facebook.</b></i>
+
+Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded.
+For example, the message '111' would give 3, since it could be decoded as 'aaa', 'ka', and 'ak'.
+You can assume that the messages are decodable. For example, '001' is not allowed.
+<br><a href ="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day10/Day10.java">Solution </a>
