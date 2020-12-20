@@ -75,3 +75,15 @@ Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the nu
 For example, the message '111' would give 3, since it could be decoded as 'aaa', 'ka', and 'ak'.
 You can assume that the messages are decodable. For example, '001' is not allowed.
 <br><a href ="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day10/Day10.java">Solution </a>
+
+#### Day 11 :<br>
+ Write an algorithm that computes the reversal of a directed graph.
+For example, if a graph consists of A -> B -> C, it should become <br>A <- B <- C.<br>
+<a href = "https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day11.java">Solution</a>
+
+#### Day 12 :<br>
+<b><i>This problem was asked by Google.</b></i><br>
+
+A unival tree (which stands for "universal value") is a tree where all nodes under it have the same value.
+Given the root to a binary tree, count the number of unival subtrees.<br>
+<a href ="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day12.java">Solution</a>
