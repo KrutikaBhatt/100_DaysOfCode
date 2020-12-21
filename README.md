@@ -79,7 +79,7 @@ You can assume that the messages are decodable. For example, '001' is not allowe
 #### Day 11 :<br>
  Write an algorithm that computes the reversal of a directed graph.
 For example, if a graph consists of A -> B -> C, it should become <br>A <- B <- C.<br>
-<a href = "https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day11.java">Solution</a>
+<a href = "https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day11/Graph_Reversal.java">Solution</a>
 
 #### Day 12 :<br>
 <b><i>This problem was asked by Google.</b></i><br>
@@ -87,3 +87,7 @@ For example, if a graph consists of A -> B -> C, it should become <br>A <- B <- 
 A unival tree (which stands for "universal value") is a tree where all nodes under it have the same value.
 Given the root to a binary tree, count the number of unival subtrees.<br>
 <a href ="https://github.com/KrutikaBhatt/100_DaysOfCode/blob/master/Day12.java">Solution</a>
+#### Day 13:<br>
+Given an array of elements, return the length of the longest subarray where all its elements are distinct.
+For example, given the array [5, 1, 3, 5, 2, 3, 4, 1], return 5 as the longest subarray of distinct elements is [5, 2, 3, 4, 1].<br>
+[Solution](Day13.java)
