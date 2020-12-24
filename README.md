@@ -91,3 +91,22 @@ Given the root to a binary tree, count the number of unival subtrees.<br>
 Given an array of elements, return the length of the longest subarray where all its elements are distinct.
 For example, given the array [5, 1, 3, 5, 2, 3, 4, 1], return 5 as the longest subarray of distinct elements is [5, 2, 3, 4, 1].<br>
 [Solution](Day13.java)
+
+#### Day 14 :<br>
+This problem was asked by Uber.
+Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
+Find the minimum element in O(log N) time. You may assume the array does not contain duplicates.
+or example, given [5, 7, 10, 3, 4], return 3.<br>
+[Solution](Day14.java)
+
+#### Day 15 :<br>
+This problem was asked by Amazon.
+
+There exists a staircase with N steps, and you can climb up either 1 or 2 steps at a time. Given N, write a function that returns the number of unique ways you can climb the staircase.
+The order of the steps matters.<br>
+[Solution](Day15.java)
+#### Day 16 :<br>
+This problem was asked by Google.
+ Given the head of a singly linked list, swap every two nodes and return its head.
+ For example, given 1 -> 2 -> 3 -> 4, return 2 -> 1 -> 4 -> 3
+ <br>[Solution](Day16.java)
