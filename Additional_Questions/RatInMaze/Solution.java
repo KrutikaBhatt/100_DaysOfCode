@@ -108,8 +108,8 @@ public class Solution {
 	
 	public static void main(String[] args) {
 		int [][] maze = new int [][] {{1,0,1},
-								      {1,0,1},
-									  {1,1,1}};
+	 				      {1,0,1},
+					      {1,1,1}};
 			ratInAMaze(maze);
 		
 		int [][] maze2 = new int [][] {{ 1,0,1},
